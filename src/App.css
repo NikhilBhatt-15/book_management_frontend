@@ -1,0 +1,14 @@
+/* App.css */
+#root {
+  width: 100%;
+  font-family: Arial, sans-serif;
+  /* padding: 2rem; */
+  /* background-color: #1d1c1c; */
+  color: black;
+  min-height: 100vh;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+

@@ -1,0 +1,30 @@
+.home {
+    background-image: url('./homebg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .home-content {
+    color: brown;
+  }
+  
+  .shop-now-btn {
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  
+  .shop-now-btn:hover {
+    background-color: #125a9e;
+  }
+  

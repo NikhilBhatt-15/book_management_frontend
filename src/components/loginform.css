@@ -1,0 +1,97 @@
+.logincontainer {
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* background-image: radial-gradient(
+      circle farthest-corner at 10% 20%,
+      rgb(30, 24, 26) 0%,
+      rgba(255, 211, 165, 1) 90%
+    ); */
+    background-color: #1d1c1c;
+    color: black;
+  }
+  
+  .logincard {
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+    width: 300px;
+    height: 430px;
+    background-color: #ffffff;
+    padding: 10px 30px;
+  }
+  
+  .logincard_title {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .logincard_title h1 {
+    font-size: 26px;
+    font-weight: bold;
+  }
+  
+  .form input {
+    color: black;
+    margin: 10px 0;
+    width: 90%;
+    background-color: #e2e2e2;
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+  }
+  
+  .form button {
+    margin-top: 100px;
+    background-color: #4796ff;
+    color: #ffffff;
+    font-size: 16px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 15px;
+    width: 100%;
+  }
+  
+  .logincard_terms {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .logincard_terms input[type="checkbox"] {
+    background-color: #e2e2e2;
+  }
+  
+  .logincard_terms span {
+    margin: 5px;
+    font-size: 13px;
+  }
+  
+  .logincard a {
+    color: #4796ff;
+    text-decoration: none;
+  }
+  .password-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .password-container input {
+    flex: 1;
+  }
+  
+  .toggle-password {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  

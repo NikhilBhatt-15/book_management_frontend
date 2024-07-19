@@ -1,0 +1,64 @@
+.request-container {
+    padding: 2rem;
+    background-color: white;
+    height: 90vh;
+    text-align: center;
+  }
+  
+  .request-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+    border: 1px solid #b5aaaa;
+  }
+  
+  .request-table th, .request-table td {
+    padding: 1rem;
+    border: 1px solid #b5aaaa;
+    text-align: left;
+  }
+  
+  .request-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .request-control {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .modalClass {  
+    text-align: center;  
+    margin-top: 100px;  
+  } 
+  
+  .request-control button {
+    padding: 0.5rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .request-control button:hover {
+    background-color: #095c0d;
+  }
+  
+  .request-table button {
+    padding: 0.5rem 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 0.5rem;
+  }
+  
+  .request-delete-btn{
+    background-color: rgb(221, 52, 52);
+  }
+  .request-table button:hover {
+    background-color: #45a049;
+  }
+  

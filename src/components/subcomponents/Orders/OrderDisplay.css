@@ -1,0 +1,29 @@
+.order-display-container {
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+    padding: 2rem;
+    padding-top: 0px;
+    border-radius: 20px;
+  }
+  
+  .order-display-container h2 {
+    margin-bottom: 20px;
+    font-size: 54px;
+  }
+  
+  .order-display-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .order-display-container th, .order-display-container td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .order-display-container th {
+    background-color: #f4f4f4;
+    text-align: left;
+  }
+  

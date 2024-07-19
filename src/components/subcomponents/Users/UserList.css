@@ -1,0 +1,29 @@
+.user-list-container {
+    margin: 20px;
+    background-color: white;
+    padding: 2rem;
+    text-align: center;
+    padding-top: 0;
+    border-radius: 20px;
+  }
+  
+  .user-list-container h2 {
+    margin-bottom: 20px;
+    font-size: 34px;
+  }
+  
+  .user-list-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-list-container th, .user-list-container td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .user-list-container th {
+    background-color: #f4f4f4;
+    text-align: left;
+  }
+  

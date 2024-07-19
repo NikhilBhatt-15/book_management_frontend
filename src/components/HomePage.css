@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #264653; /* Dark brown background color */
+    color: black;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .navbar-title {
+    flex-grow: 1;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .navbar-title:hover {
+    color: #bbdefb; /* Light blue color on hover */
+  }
+  
+  .navbar-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-links button {
+    color: white;
+  }
+  
+  .navbar-links button:hover {
+    color: #bbdefb; /* Light blue color on hover */
+  }
+  
+  .navbar-icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+
+  
