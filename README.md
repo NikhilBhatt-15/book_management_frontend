@@ -40,12 +40,12 @@ This project is a Book Management System that allows users to view books, add bo
 
 1. Clone the backend:
    ```sh
-   git clone http://43.205.16.129:3000/nikhilbhatt/book_management_backend.git
+   git clone https://github.com/NikhilBhatt-15/book_management_backend.git
    
 
 2. Clone the frontend
-
-    git clone http://43.205.16.129:3000/nikhilbhatt/book_management_frontend.git
+    ```sh
+    git clone https://github.com/NikhilBhatt-15/book_management_frontend.git
 
 
 ### Admin DashBoard
